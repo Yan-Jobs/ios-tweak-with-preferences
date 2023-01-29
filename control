@@ -1,0 +1,9 @@
+Package: me.yanjobs.preferencesobctest
+Name: PreferencesOBCTest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Yan.
+Author: Yan.
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common (>= 1.17)
